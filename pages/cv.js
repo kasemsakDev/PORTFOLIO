@@ -9,7 +9,7 @@ const Cv = () => {
               title="My Experiences - Kasemsak kanunkhon">
               <Row>
                   <Col md={{ size: 8, offset: 2 }}>
-                      <iframe style={{ width: '100%', height: '800px' }} src="/jerga_cv.pdf" />
+                      <iframe style={{ width: '100%', height: '800px' }} src="/cv.pdf" />
                   </Col>
               </Row>
           </BasePage>
