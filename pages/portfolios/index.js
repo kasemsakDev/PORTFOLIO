@@ -13,11 +13,11 @@ const Portfolios = ({posts}) => {
              
               <h1>My portfolios.</h1>
               <br></br>
-                  <h3 style={{ marginLeft: 30, marginBottom: 10 }}>DEMO - Social Network Application With .Net Core and React</h3>
+                  <h3 style={{ marginLeft: 30, marginBottom: 10 }}>Social Network Application With .Net Core and React</h3>
                   <Row>
-              <img src="/images/Social Network Application.png" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }} />
-              <img src="/images/Social Network Application2.png" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }}/>
-              <img src="/images/Social Network Application3.png" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }}/>
+                  <img src="/images/Social Network Application.png" className="img-responsive" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }} />
+                  <img src="/images/Social Network Application2.png" className="img-responsive" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }}/>
+                  <img src="/images/Social Network Application3.png" className="img-responsive" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }}/>
                   </Row>
                   <Row>
                       <Col md="12">
@@ -73,11 +73,11 @@ const Portfolios = ({posts}) => {
 
               <br></br>
 
-                  <h3>DEMO - E-commerce app With React Redux, Hooks, ContextAPI, Stripe, Firebase</h3>
+                  <h3>E-commerce app With React Redux, Hooks, ContextAPI, Stripe, Firebase</h3>
                   <Row>
-              <img src="/images/E-commerce.png" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }} />
-              <img src="/images/E-commerce2.png" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }} />
-                      <img src="/images/E-commerce3.png" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }} />
+                  <img src="/images/E-commerce.png" className="img-responsive" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }} />
+                  <img src="/images/E-commerce2.png" className="img-responsive" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }} />
+                  <img src="/images/E-commerce3.png" className="img-responsive" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }} />
                       </Row>
                   <Row>
                       <Col md="12">
@@ -124,12 +124,12 @@ const Portfolios = ({posts}) => {
                       </Col>
                     </Row>
                   <Row>
-                      <h3>DEMO - Knowledge Management Application</h3>
+                      <h3>Knowledge Management Application</h3>
                   </Row>
-                  <Row>
-              <img src="/images/k.png" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }} />
-              <img src="/images/k2.png" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }} />
-              <img src="/images/k3.png" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }} />
+              <Row>
+              <img src="/images/k.png" className="img-responsive" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }} />
+                  <img src="/images/k2.png" className="img-responsive" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }} />
+                  <img src="/images/k3.png" className="img-responsive" width="400" height="300" style={{ marginLeft: 30, marginBottom: 5 }} />
                   </Row>
                   <Row>
                       <Col md = "12">
