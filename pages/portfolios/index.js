@@ -133,7 +133,7 @@ const Portfolios = ({posts}) => {
                   </Row>
                   <Row>
                       <Col md = "12">
-              Link : <a href="https://app-km.herokuapp.com/issue.php" target="_blank" style={{ color: "White" }}>https://app-km.herokuapp.com/issue.php</a>
+              Link : <a href="https://app-km.herokuapp.com" target="_blank" style={{ color: "White" }}>https://app-km.herokuapp.com</a>
                       </Col>
                       <Col md ="12">
               github : <a href="https://github.com/kasemsakDev/KM" target="_blank" style={{ color: "White" }}>https://github.com/kasemsakDev/KM</a>
